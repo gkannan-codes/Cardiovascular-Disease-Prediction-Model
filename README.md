@@ -4,7 +4,7 @@ A logistic regression model that estimates a patient's likelihood of heart disea
 
 The core classifier is implemented **from scratch in NumPy** (sigmoid hypothesis, cross-entropy cost, batch gradient descent, manual 10-fold cross-validation) and benchmarked against scikit-learn baselines across several preprocessing strategies.
 
-![ROC curves for each preprocessing method](assets/roc_curves.png)
+![ROC curves for each preprocessing method](data/assets/roc_curves.png)
 
 ---
 
